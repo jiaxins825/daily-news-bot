@@ -7538,5 +7538,2000 @@
     "title": "Sources: Coinbase and Zerohash are among the companies vying to issue Cloudflare's stablecoin, set to launch this year to support payments for the \"agentic web\" (Yueqi Yang/The Information)",
     "link": "http://www.techmeme.com/260318/p41#a260318p41",
     "source": "Techmeme-AI"
+  },
+  {
+    "title": "Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks",
+    "link": "https://arxiv.org/abs/2603.16881",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness",
+    "link": "https://arxiv.org/abs/2603.16888",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Integrating Explainable Machine Learning and Mixed-Integer Optimization for Personalized Sleep Quality Intervention",
+    "link": "https://arxiv.org/abs/2603.16937",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data",
+    "link": "https://arxiv.org/abs/2603.16951",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "PRISM: Demystifying Retention and Interaction in Mid-Training",
+    "link": "https://arxiv.org/abs/2603.17074",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Domain-informed explainable boosting machines for trustworthy lateral spread predictions",
+    "link": "https://arxiv.org/abs/2603.17175",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
+    "link": "https://arxiv.org/abs/2603.17187",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "WINFlowNets: Warm-up Integrated Networks Training of Generative Flow Networks for Robotics and Machine Fault Adaptation",
+    "link": "https://arxiv.org/abs/2603.17301",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "The Causal Uncertainty Principle: Manifold Tearing and the Topological Limits of Counterfactual Interventions",
+    "link": "https://arxiv.org/abs/2603.17385",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation",
+    "link": "https://arxiv.org/abs/2603.17507",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "AirDDE: Multifactor Neural Delay Differential Equations for Air Quality Forecasting",
+    "link": "https://arxiv.org/abs/2603.17529",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models",
+    "link": "https://arxiv.org/abs/2603.17570",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "End-to-end data-driven prediction of urban airflow and pollutant dispersion",
+    "link": "https://arxiv.org/abs/2603.17606",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training",
+    "link": "https://arxiv.org/abs/2603.17970",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Multi-Modal Multi-Agent Reinforcement Learning for Radiology Report Generation: Radiologist-Like Workflow with Clinically Verifiable Rewards",
+    "link": "https://arxiv.org/abs/2603.16876",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "PowerModelsGAT-AI: Physics-Informed Graph Attention for Multi-System Power Flow with Continual Learning",
+    "link": "https://arxiv.org/abs/2603.16879",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "EEG-Based Brain-LLM Interface for Human Preference Aligned Generation",
+    "link": "https://arxiv.org/abs/2603.16897",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
+    "link": "https://arxiv.org/abs/2603.16928",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Behavior-Centric Extraction of Scenarios from Highway Traffic Data and their Domain-Knowledge-Guided Clustering using CVQ-VAE",
+    "link": "https://arxiv.org/abs/2603.16964",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "DeepStage: Learning Autonomous Defense Policies Against Multi-Stage APT Campaigns",
+    "link": "https://arxiv.org/abs/2603.16969",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network",
+    "link": "https://arxiv.org/abs/2603.16972",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Interpretable AI-Assisted Early Reliability Prediction for a Two-Parameter Parallel Root-Finding Scheme",
+    "link": "https://arxiv.org/abs/2603.16980",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems",
+    "link": "https://arxiv.org/abs/2603.17056",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization",
+    "link": "https://arxiv.org/abs/2603.17057",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Ensemble Self-Training for Unsupervised Machine Translation",
+    "link": "https://arxiv.org/abs/2603.17087",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+    "link": "https://arxiv.org/abs/2603.17112",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Shielded Reinforcement Learning Under Dynamic Temporal Logic Constraints",
+    "link": "https://arxiv.org/abs/2603.17152",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Adaptive Contracts for Cost-Effective AI Delegation",
+    "link": "https://arxiv.org/abs/2603.17212",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Wasserstein-type Gaussian Process Regressions for Input Measurement Uncertainty",
+    "link": "https://arxiv.org/abs/2603.17271",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "ReLMXEL: Adaptive RL-Based Memory Controller with Explainable Energy and Latency Optimization",
+    "link": "https://arxiv.org/abs/2603.17309",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication",
+    "link": "https://arxiv.org/abs/2603.17328",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Bootstrapping Coding Agents: The Specification Is the Program",
+    "link": "https://arxiv.org/abs/2603.17399",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Informative Semi-Factuals for XAI: The Elaborated Explanations that People Prefer",
+    "link": "https://arxiv.org/abs/2603.17534",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)",
+    "link": "https://arxiv.org/abs/2603.17544",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial Attacks",
+    "link": "https://arxiv.org/abs/2603.17628",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents",
+    "link": "https://arxiv.org/abs/2603.17683",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "HighAir: A Hierarchical Graph Neural Network-Based Air Quality Forecasting Method",
+    "link": "https://arxiv.org/abs/2101.04264",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Fine-Grained Uncertainty Quantification via Collisions",
+    "link": "https://arxiv.org/abs/2411.12127",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Learning Over Dirty Data with Minimal Repairs",
+    "link": "https://arxiv.org/abs/2503.13921",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "SocialJax: An Evaluation Suite for Multi-agent Reinforcement Learning in Sequential Social Dilemmas",
+    "link": "https://arxiv.org/abs/2503.14576",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Explanations Go Linear: Post-hoc Explainability for Tabular Data with Interpretable Meta-Encoding",
+    "link": "https://arxiv.org/abs/2504.20667",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines",
+    "link": "https://arxiv.org/abs/2505.15151",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Knowing What You Cannot Explain: Learning to Reject Low-Quality Explanations",
+    "link": "https://arxiv.org/abs/2507.12900",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Constraint Learning in Multi-Agent Dynamic Games from Demonstrations of Local Nash Interactions",
+    "link": "https://arxiv.org/abs/2508.19945",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Learning Domain- and Class-Disentangled Prototypes for Domain-Generalized EEG Emotion Recognition",
+    "link": "https://arxiv.org/abs/2509.01135",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Tree Search for LLM Agent Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2509.21240",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Scalable Energy-Based Models via Adversarial Training: Unifying Discrimination and Generation",
+    "link": "https://arxiv.org/abs/2510.13872",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A robust methodology for long-term sustainability evaluation of Machine Learning models",
+    "link": "https://arxiv.org/abs/2511.08120",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Efficient Cross-Domain Offline Reinforcement Learning with Dynamics- and Value-Aligned Data Filtering",
+    "link": "https://arxiv.org/abs/2512.02435",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Comedy of Estimators: On KL Regularization in RL Training of LLMs",
+    "link": "https://arxiv.org/abs/2512.21852",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "GIFT: Reconciling Post-Training Objectives via Finite-Temperature Gibbs Initialization",
+    "link": "https://arxiv.org/abs/2601.09233",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation",
+    "link": "https://arxiv.org/abs/2602.10489",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+    "link": "https://arxiv.org/abs/2603.03818",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search",
+    "link": "https://arxiv.org/abs/2603.11327",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Optimization over Trained (and Sparse) Neural Networks: A Surrogate within a Surrogate",
+    "link": "https://arxiv.org/abs/2505.01985",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "From Street Form to Spatial Justice: Explaining Urban Exercise Inequality via a Triadic SHAP-Informed Framework",
+    "link": "https://arxiv.org/abs/2507.03570",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Exact Generalisation Error Exposes Benchmarks Skew Graph Neural Networks Success (or Failure)",
+    "link": "https://arxiv.org/abs/2509.10337",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "EdiVal-Agent: An Object-Centric Framework for Automated, Fine-Grained Evaluation of Multi-Turn Editing",
+    "link": "https://arxiv.org/abs/2509.13399",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models",
+    "link": "https://arxiv.org/abs/2510.09259",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions",
+    "link": "https://arxiv.org/abs/2510.14959",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking",
+    "link": "https://arxiv.org/abs/2602.04132",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "PAND: Prompt-Aware Neighborhood Distillation for Lightweight Fine-Grained Visual Classification",
+    "link": "https://arxiv.org/abs/2602.07768",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "PhysQuantAgent: An Inference Pipeline of Mass Estimation for Vision-Language Models",
+    "link": "https://arxiv.org/abs/2603.16958",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "MSRAMIE: Multimodal Structured Reasoning Agent for Multi-instruction Image Editing",
+    "link": "https://arxiv.org/abs/2603.16967",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning",
+    "link": "https://arxiv.org/abs/2603.17024",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials",
+    "link": "https://arxiv.org/abs/2603.17043",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2603.17055",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models",
+    "link": "https://arxiv.org/abs/2603.17117",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience",
+    "link": "https://arxiv.org/abs/2603.17173",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding",
+    "link": "https://arxiv.org/abs/2603.17307",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions",
+    "link": "https://arxiv.org/abs/2603.17326",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection",
+    "link": "https://arxiv.org/abs/2603.17343",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval",
+    "link": "https://arxiv.org/abs/2603.17360",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift",
+    "link": "https://arxiv.org/abs/2603.17372",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "VisionNVS: Self-Supervised Inpainting for Novel View Synthesis under the Virtual-Shift Paradigm",
+    "link": "https://arxiv.org/abs/2603.17382",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation",
+    "link": "https://arxiv.org/abs/2603.17396",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning",
+    "link": "https://arxiv.org/abs/2603.17474",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing",
+    "link": "https://arxiv.org/abs/2603.17531",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models",
+    "link": "https://arxiv.org/abs/2603.17541",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "A Multi-Agent System for Building-Age Cohort Mapping to Support Urban Energy Planning",
+    "link": "https://arxiv.org/abs/2603.17626",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment",
+    "link": "https://arxiv.org/abs/2603.17655",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "FINER: MLLMs Hallucinate under Fine-grained Negative Queries",
+    "link": "https://arxiv.org/abs/2603.17662",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Illumination-Aware Contactless Fingerprint Spoof Detection via Paired Flash-Non-Flash Imaging",
+    "link": "https://arxiv.org/abs/2603.17679",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Does YOLO Really Need to See Every Training Image in Every Epoch?",
+    "link": "https://arxiv.org/abs/2603.17684",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition",
+    "link": "https://arxiv.org/abs/2603.17729",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs",
+    "link": "https://arxiv.org/abs/2603.17761",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Exploring parameter-efficient fine-tuning (PEFT) of billion-parameter vision models with QLoRA and DoRA: insights into generalization for limited-data image classification under a 98:1 test-to-train regime",
+    "link": "https://arxiv.org/abs/2603.17782",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients",
+    "link": "https://arxiv.org/abs/2603.17809",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "A Creative Agent is Worth a 64-Token Template",
+    "link": "https://arxiv.org/abs/2603.17895",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Interpretable Traffic Responsibility from Dashcam Video via Legal Multi Agent Reasoning",
+    "link": "https://arxiv.org/abs/2603.17930",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Versatile Editing of Video Content, Actions, and Dynamics without Training",
+    "link": "https://arxiv.org/abs/2603.17989",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Deep Learning-Based Airway Segmentation in Systemic Lupus Erythematosus Patients with Interstitial Lung Disease (SLE-ILD): A Comparative High-Resolution CT Analysis",
+    "link": "https://arxiv.org/abs/2603.17547",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning",
+    "link": "https://arxiv.org/abs/2503.22179",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Domain and Task-Focused Example Selection for Data-Efficient Contrastive Medical Image Segmentation",
+    "link": "https://arxiv.org/abs/2505.19208",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation",
+    "link": "https://arxiv.org/abs/2509.22496",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection",
+    "link": "https://arxiv.org/abs/2510.14792",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Digital FAST: An AI-Driven Multimodal Framework for Rapid and Early Stroke Screening",
+    "link": "https://arxiv.org/abs/2601.11896",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration",
+    "link": "https://arxiv.org/abs/2601.21592",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "NutVLM: A Self-Adaptive Defense Framework against Full-Dimension Attacks for Vision Language Models in Autonomous Driving",
+    "link": "https://arxiv.org/abs/2602.13293",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
+    "link": "https://arxiv.org/abs/2602.21818",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers",
+    "link": "https://arxiv.org/abs/2603.10744",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics",
+    "link": "https://arxiv.org/abs/2512.11903",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Does YOLO Really Need to See Every Training Image in Every Epoch?",
+    "link": "https://tldr.takara.ai/p/2603.17684",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval",
+    "link": "https://tldr.takara.ai/p/2603.17360",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Governed Memory: A Production Architecture for Multi-Agent Workflows",
+    "link": "https://tldr.takara.ai/p/2603.17787",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models",
+    "link": "https://tldr.takara.ai/p/2603.17570",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients",
+    "link": "https://tldr.takara.ai/p/2603.17809",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Deep Learning-Based Airway Segmentation in Systemic Lupus Erythematosus Patients with Interstitial Lung Disease (SLE-ILD): A Comparative High-Resolution CT Analysis",
+    "link": "https://tldr.takara.ai/p/2603.17547",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift",
+    "link": "https://tldr.takara.ai/p/2603.17372",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "GUIDE: GenAI Units In Digital Design Education",
+    "link": "https://tldr.takara.ai/p/2603.17296",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Automated Grammar-based Algebraic Multigrid Design With Evolutionary Algorithms",
+    "link": "https://tldr.takara.ai/p/2603.17641",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial Attacks",
+    "link": "https://tldr.takara.ai/p/2603.17628",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models",
+    "link": "https://tldr.takara.ai/p/2603.17541",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+    "link": "https://tldr.takara.ai/p/2603.18000",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+    "link": "https://tldr.takara.ai/p/2603.17973",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Process Supervision for Chain-of-Thought Reasoning via Monte Carlo Net Information Gain",
+    "link": "https://tldr.takara.ai/p/2603.17815",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Towards Safer Large Reasoning Models by Promoting Safety Decision-Making before Chain-of-Thought Generation",
+    "link": "https://tldr.takara.ai/p/2603.17368",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "When Only the Final Text Survives: Implicit Execution Tracing for Multi-Agent Attribution",
+    "link": "https://tldr.takara.ai/p/2603.17445",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation",
+    "link": "https://tldr.takara.ai/p/2603.17396",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Addendum to GPT-5 System Card: Sensitive conversations",
+    "link": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+    "link": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "A law and tax firm redefines efficiency with ChatGPT Business",
+    "link": "https://openai.com/index/steuerrecht",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+    "link": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Consensus accelerates research with GPT-5 and Responses API",
+    "link": "https://openai.com/index/consensus",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/index/south-korea-economic-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Work smarter with your company knowledge in ChatGPT",
+    "link": "https://openai.com/index/introducing-company-knowledge",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The next chapter for UK sovereign AI",
+    "link": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+    "link": "https://openai.com/index/japan-economic-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Continue your ChatGPT experience beyond WhatsApp",
+    "link": "https://openai.com/index/chatgpt-whatsapp-transition",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+    "link": "https://openai.com/index/introducing-chatgpt-atlas",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
+    "link": "https://openai.com/index/plex-coffee",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Expert Council on Well-Being and AI",
+    "link": "https://openai.com/index/expert-council-on-well-being-and-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Argentina’s AI opportunity",
+    "link": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+    "link": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "HYGH powers next-gen digital ads with ChatGPT Business",
+    "link": "https://openai.com/index/hygh",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Growing impact and scale with ChatGPT",
+    "link": "https://openai.com/index/hibob",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting malicious uses of AI: October 2025",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Codex is now generally available",
+    "link": "https://openai.com/index/codex-now-generally-available",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing apps in ChatGPT and the new Apps SDK",
+    "link": "https://openai.com/index/introducing-apps-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+    "link": "https://openai.com/index/openai-amd-strategic-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Accelerating AI adoption in Europe",
+    "link": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing AgentKit, new Evals, and RFT for agents",
+    "link": "https://openai.com/index/introducing-agentkit",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+    "link": "https://openai.com/index/wrtn",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+    "link": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+    "link": "https://openai.com/index/samsung-and-sk-join-stargate",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Improving support with every interaction at OpenAI",
+    "link": "https://openai.com/index/openai-support-model",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Driving sales productivity and customer success at OpenAI",
+    "link": "https://openai.com/index/openai-gtm-assistant",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building OpenAI with OpenAI",
+    "link": "https://openai.com/index/building-openai-with-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Empowering teams to unlock insights faster at OpenAI",
+    "link": "https://openai.com/index/openai-research-assistant",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Converting inbound leads into customers at OpenAI",
+    "link": "https://openai.com/index/openai-inbound-sales-assistant",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Turning contracts into searchable data at OpenAI",
+    "link": "https://openai.com/index/openai-contract-data-agent",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+    "link": "https://openai.com/index/buy-it-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "More ways to work with your team and tools in ChatGPT",
+    "link": "https://openai.com/index/more-ways-to-work-with-your-team",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Pulse",
+    "link": "https://openai.com/index/introducing-chatgpt-pulse",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Transforming the manufacturing industry with ChatGPT",
+    "link": "https://openai.com/index/eneos-materials",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+    "link": "https://openai.com/global-affairs/openai-for-germany",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+    "link": "https://openai.com/index/five-new-stargate-sites",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "CNA is transforming its newsroom with AI",
+    "link": "https://openai.com/index/cna-walter-fernandez",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creating a safe, observable AI infrastructure for 1 million classrooms",
+    "link": "https://openai.com/index/schoolai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+    "link": "https://openai.com/index/openai-nvidia-systems-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Detecting and reducing scheming in AI models",
+    "link": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How people are using ChatGPT",
+    "link": "https://openai.com/index/how-people-are-using-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+    "link": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+    "link": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "A joint statement from OpenAI and Microsoft",
+    "link": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Statement on OpenAI’s Nonprofit and PBC",
+    "link": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Shipping smarter agents with every new model",
+    "link": "https://openai.com/index/safetykit",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "A People-First AI Fund: $50M to support nonprofits",
+    "link": "https://openai.com/index/people-first-ai-fund",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5 bio bug bounty call",
+    "link": "https://openai.com/gpt-5-bio-bug-bounty",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+    "link": "https://openai.com/global-affairs/openai-for-greece",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Expanding economic opportunity with AI",
+    "link": "https://openai.com/index/expanding-economic-opportunity-with-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building more helpful ChatGPT experiences for everyone",
+    "link": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing gpt-realtime and Realtime API updates",
+    "link": "https://openai.com/index/introducing-gpt-realtime",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
+    "link": "https://openai.com/index/openai-anthropic-safety-evaluation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Announcing the OpenAI Learning Accelerator",
+    "link": "https://openai.com/global-affairs/learning-accelerator",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Scaling domain expertise in complex, regulated domains",
+    "link": "https://openai.com/index/blue-j",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Mixi reimagines communication with ChatGPT",
+    "link": "https://openai.com/index/mixi",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Scaling accounting capacity with OpenAI",
+    "link": "https://openai.com/index/basis",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Newsom on harmonized regulation",
+    "link": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5 for developers",
+    "link": "https://openai.com/index/introducing-gpt-5-for-developers",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5 and the new era of work",
+    "link": "https://openai.com/index/gpt-5-new-era-of-work",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Coding and design with GPT-5",
+    "link": "https://openai.com/index/gpt-5-coding-design",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creative writing with GPT-5",
+    "link": "https://openai.com/index/gpt-5-creative-writing",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Medical research with GPT-5",
+    "link": "https://openai.com/index/gpt-5-medical-research",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5",
+    "link": "https://openai.com/index/introducing-gpt-5",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Cursor uses GPT-5",
+    "link": "https://openai.com/index/gpt-5-cursor",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5 System Card",
+    "link": "https://openai.com/index/gpt-5-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "From hard refusals to safe-completions: toward output-centric safety training",
+    "link": "https://openai.com/index/gpt-5-safe-completions",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "First look at GPT-5",
+    "link": "https://openai.com/index/gpt-5-first-look",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Amgen uses GPT-5",
+    "link": "https://openai.com/index/gpt-5-amgen",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+    "link": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing gpt-oss",
+    "link": "https://openai.com/index/introducing-gpt-oss",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Open Weights and AI for All",
+    "link": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "link": "https://openai.com/index/gpt-oss-model-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "What we’re optimizing ChatGPT for",
+    "link": "https://openai.com/index/optimizing-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Figma uses AI to transform digital design",
+    "link": "https://openai.com/index/figma-david-kossnick",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Three lessons for creating a sustainable AI advantage",
+    "link": "https://openai.com/index/intercom",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing study mode in ChatGPT",
+    "link": "https://openai.com/index/chatgpt-study-mode",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Resolving digital threats 100x faster with OpenAI",
+    "link": "https://openai.com/index/outtake",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+    "link": "https://openai.com/index/model-ml-chaz-englander",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Announcing OpenAI DevDay 2025",
+    "link": "https://openai.com/index/announcing-devday-2025",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Pioneering an AI clinical copilot with Penda Health",
+    "link": "https://openai.com/index/ai-clinical-copilot-penda-health",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s new economic analysis",
+    "link": "https://openai.com/global-affairs/new-economic-analysis",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+    "link": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI as the greatest source of empowerment for all",
+    "link": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "ChatGPT agent System Card",
+    "link": "https://openai.com/index/chatgpt-agent-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT agent",
+    "link": "https://openai.com/index/introducing-chatgpt-agent",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI nonprofit jam",
+    "link": "https://openai.com/global-affairs/openai-nonprofit-jam",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
+    "link": "https://openai.com/index/nonprofit-commission-report",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+    "link": "https://openai.com/index/invideo-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Agent bio bug bounty call",
+    "link": "https://openai.com/bio-bug-bounty",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The EU Code of Practice and future of AI in Europe",
+    "link": "https://openai.com/global-affairs/eu-code-of-practice",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Working with 400,000 teachers to shape the future of AI in schools",
+    "link": "https://openai.com/global-affairs/aft",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "No-code personal agents, powered by GPT-4.1 and Realtime API",
+    "link": "https://openai.com/index/genspark",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI in Australia—OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/global-affairs/openais-australia-economic-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Customizable, no-code voice agent automation with GPT-4o",
+    "link": "https://openai.com/index/retell-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
+    "link": "https://openai.com/index/unify",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Preparing for future AI risks in biology",
+    "link": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI for Government",
+    "link": "https://openai.com/global-affairs/introducing-openai-for-government",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Bringing the magic of AI to Mattel’s iconic brands",
+    "link": "https://openai.com/index/mattels-iconic-brands",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting malicious uses of AI: June 2025",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creating websites in minutes with AI Website Builder",
+    "link": "https://openai.com/index/wix",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
+    "link": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Deutschland",
+    "link": "https://openai.com/index/openai-deutschland",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Shipping code faster with o3, o4-mini, and GPT-4.1",
+    "link": "https://openai.com/index/coderabbit",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI powers Expedia’s marketing evolution",
+    "link": "https://openai.com/index/expedia-jochen-koedijk",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Expands Leadership with Fidji Simo",
+    "link": "https://openai.com/index/leadership-expansion-with-fidji-simo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s response to the Department of Energy on AI infrastructure",
+    "link": "https://openai.com/global-affairs/response-to-department-of-energy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
+    "link": "https://openai.com/index/san-antonio-spurs",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI for Countries",
+    "link": "https://openai.com/global-affairs/openai-for-countries",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing AI stories: daily benefits shine a light on bigger opportunities",
+    "link": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI helps John Deere transform agriculture",
+    "link": "https://openai.com/index/john-deere-justin-rose",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Evolving OpenAI’s structure",
+    "link": "https://openai.com/index/evolving-our-structure",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Lowe’s leverages AI to power home improvement retail",
+    "link": "https://openai.com/index/lowes-chandhu-nair",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Sycophancy in GPT-4o: what happened and what we’re doing about it",
+    "link": "https://openai.com/index/sycophancy-in-gpt-4o",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New in ChatGPT for Business: April 2025",
+    "link": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Speak is personalizing language learning with AI",
+    "link": "https://openai.com/index/speak-connor-zwick",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The Washington Post partners with OpenAI on search content",
+    "link": "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o3 and o4-mini System Card",
+    "link": "https://openai.com/index/o3-o4-mini-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI o3 and o4-mini",
+    "link": "https://openai.com/index/introducing-o3-and-o4-mini",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI announces nonprofit commission advisors",
+    "link": "https://openai.com/index/nonprofit-commission-advisors",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-4.1 in the API",
+    "link": "https://openai.com/index/gpt-4-1",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "BrowseComp: a benchmark for browsing agents",
+    "link": "https://openai.com/index/browsecomp",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Pioneers Program",
+    "link": "https://openai.com/index/openai-pioneers-program",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Canva enables creativity with AI",
+    "link": "https://openai.com/index/canva-cam-adams",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s EU Economic Blueprint",
+    "link": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit",
+    "link": "https://openai.com/index/nonprofit-commission-guidance",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "PaperBench: Evaluating AI’s Ability to Replicate AI Research",
+    "link": "https://openai.com/index/paperbench",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Moving from intent-based bots to proactive AI agents",
+    "link": "https://openai.com/index/zendesk",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Addendum to GPT-4o System Card: 4o image generation",
+    "link": "https://openai.com/index/gpt-4o-image-generation-system-card-addendum",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Automating 90% of finance and legal work with agents",
+    "link": "https://openai.com/index/hebbia",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Scaling the OpenAI Academy",
+    "link": "https://openai.com/global-affairs/scaling-the-openai-academy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
+    "link": "https://openai.com/index/affective-use-study",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Personalizing travel at scale with OpenAI",
+    "link": "https://openai.com/index/booking-com",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "EliseAI improves housing and healthcare efficiency with AI",
+    "link": "https://openai.com/index/eliseai-minna-song",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New in ChatGPT for Business: March 2025",
+    "link": "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The court rejects Elon’s latest attempt to slow OpenAI down",
+    "link": "https://openai.com/index/court-rejects-elon",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s proposals for the U.S. AI Action Plan",
+    "link": "https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Driving growth and ‘WOW’ moments with OpenAI",
+    "link": "https://openai.com/index/ly-corporation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New tools for building agents",
+    "link": "https://openai.com/index/new-tools-for-building-agents",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Nubank elevates customer experiences with OpenAI",
+    "link": "https://openai.com/index/nubank",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Accelerating engineering cycles 20% with OpenAI",
+    "link": "https://openai.com/index/factory",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "LaunchDarkly's approach to AI-powered product management",
+    "link": "https://openai.com/index/launchdarkly-claire-vo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing NextGenAI",
+    "link": "https://openai.com/index/introducing-nextgenai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "1,000 Scientist AI Jam Session",
+    "link": "https://openai.com/global-affairs/1000-scientist-ai-jam-session",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI GPT-4.5 System Card",
+    "link": "https://openai.com/index/gpt-4-5-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-4.5",
+    "link": "https://openai.com/index/introducing-gpt-4-5",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Estonia and OpenAI to bring ChatGPT to schools nationwide",
+    "link": "https://openai.com/index/estonia-schools-and-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting malicious uses of AI",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Uber enables outstanding on-demand experiences with AI",
+    "link": "https://openai.com/index/uber-enables-outstanding-experiences",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "College students and ChatGPT adoption in the US",
+    "link": "https://openai.com/global-affairs/college-students-and-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Guardian Media Group launch content partnership",
+    "link": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Fanatics Betting and Gaming uses AI to focus on the big picture",
+    "link": "https://openai.com/index/fanatics-betting-gaming-andrea-ellis",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Wayfair is shaping the future of retail with AI",
+    "link": "https://openai.com/index/wayfair-fiona-tan",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using OpenAI o1 for financial analysis",
+    "link": "https://openai.com/index/rogo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI partners with Schibsted Media Group",
+    "link": "https://openai.com/index/openai-partners-with-schibsted-media-group",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI at the Paris AI Action Summit",
+    "link": "https://openai.com/global-affairs/openai-at-the-paris-ai-action-summit",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
+    "link": "https://openai.com/index/openai-and-the-csu-system",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creating nail art with ChatGPT",
+    "link": "https://openai.com/index/ten-tiny-canvases",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Catching halibut with ChatGPT",
+    "link": "https://openai.com/index/fishing-for-first-timers",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building a custom math tutor powered by ChatGPT",
+    "link": "https://openai.com/index/my-dog-the-math-tutor",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o3-mini",
+    "link": "https://openai.com/index/openai-o3-mini",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o3-mini System Card",
+    "link": "https://openai.com/index/o3-mini-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Strengthening America’s AI leadership with the U.S. National Laboratories",
+    "link": "https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Gov",
+    "link": "https://openai.com/global-affairs/introducing-chatgpt-gov",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Computer-Using Agent",
+    "link": "https://openai.com/index/computer-using-agent",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Bertelsmann powers creativity and productivity with OpenAI",
+    "link": "https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The power of personalized AI",
+    "link": "https://openai.com/global-affairs/the-power-of-personalized-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Partnering with Axios expands OpenAI’s work with the news industry",
+    "link": "https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Adebayo Ogunlesi joins OpenAI’s Board of Directors",
+    "link": "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/global-affairs/openais-economic-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Why OpenAI’s structure must evolve to advance our mission",
+    "link": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o1 and new tools for developers",
+    "link": "https://openai.com/index/o1-and-new-tools-for-developers",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Elon Musk wanted an OpenAI for-profit",
+    "link": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Boosting the customer retail experience with GPT-4o mini",
+    "link": "https://openai.com/index/zalando",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Put AI to work for your product team",
+    "link": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Minne Atairu & Sora",
+    "link": "https://openai.com/index/sora-minne-atairu",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Pro",
+    "link": "https://openai.com/index/introducing-chatgpt-pro",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o1 System Card",
+    "link": "https://openai.com/index/openai-o1-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Future partner on specialist content",
+    "link": "https://openai.com/index/openai-and-future-partner-on-specialist-content",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Advancing red teaming with people and AI",
+    "link": "https://openai.com/index/advancing-red-teaming-with-people-and-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Empowering a global org with ChatGPT",
+    "link": "https://openai.com/index/bbva",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building smarter maps with GPT-4o vision fine-tuning",
+    "link": "https://openai.com/index/grab",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Rox goes “all in” on OpenAI",
+    "link": "https://openai.com/index/rox",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI en France",
+    "link": "https://openai.com/index/openai-en-france",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "A Student’s Guide to Writing with ChatGPT",
+    "link": "https://openai.com/chatgpt/use-cases/student-writing-guide",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Data-driven beauty and creativity with ChatGPT",
+    "link": "https://openai.com/index/estee-lauder",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s comments to the NTIA on data center growth, resilience, and security",
+    "link": "https://openai.com/global-affairs/comments-to-the-ntia-on-data-center-growth-resilience-and-security",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT search",
+    "link": "https://openai.com/index/introducing-chatgpt-search",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+    "link": "https://openai.com/index/promega",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Put AI to work for marketing teams",
+    "link": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s approach to AI and national security",
+    "link": "https://openai.com/global-affairs/openais-approach-to-ai-and-national-security",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI appoints Scott Schools as Chief Compliance Officer",
+    "link": "https://openai.com/global-affairs/openai-chief-compliance-officer-announcement",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist",
+    "link": "https://openai.com/global-affairs/openai-chief-economist-announcement",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+    "link": "https://openai.com/index/lenfest-institute",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Solving complex problems with OpenAI o1 models",
+    "link": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Evaluating fairness in ChatGPT",
+    "link": "https://openai.com/index/evaluating-fairness-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "link": "https://openai.com/index/mle-bench",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "An update on disrupting deceptive uses of AI",
+    "link": "https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Hearst Content Partnership",
+    "link": "https://openai.com/index/hearst",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing canvas, a new way to write and code with ChatGPT.",
+    "link": "https://openai.com/index/introducing-canvas",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New funding to scale the benefits of AI",
+    "link": "https://openai.com/index/scale-the-benefits-of-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creating agent and human collaboration with GPT 4o",
+    "link": "https://openai.com/index/altera",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Put AI to work: Automate and scale financial operations",
+    "link": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+    "link": "https://openai.com/index/state-of-minnesota",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and GEDI partner for Italian news content",
+    "link": "https://openai.com/index/gedi",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing Verdi, an AI dev platform powered by GPT-4o",
+    "link": "https://openai.com/index/mercado-libre",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing the OpenAI Academy",
+    "link": "https://openai.com/global-affairs/openai-academy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Genmab launches “AI Everywhere”",
+    "link": "https://openai.com/index/genmab",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using GPT-4 to improve teaching and learning in Brazil",
+    "link": "https://openai.com/index/arco-education",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI o1",
+    "link": "https://openai.com/index/introducing-openai-o1-preview",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o1-mini",
+    "link": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o1 System Card External Testers Acknowledgements",
+    "link": "https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI o1 Contributions",
+    "link": "https://openai.com/openai-o1-contributions",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Economics and reasoning with OpenAI o1",
+    "link": "https://openai.com/index/o1-economics",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Decoding genetics with OpenAI o1",
+    "link": "https://openai.com/index/o1-genetics",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Coding with OpenAI o1",
+    "link": "https://openai.com/index/o1-coding",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Answering quantum physics questions with OpenAI o1",
+    "link": "https://openai.com/index/o1-quantum-physics",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Put AI to work: Lessons from hundreds of successful deployments",
+    "link": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using GPT-4 to deliver a new customer service standard",
+    "link": "https://openai.com/index/ada",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Personalizing education with ChatGPT",
+    "link": "https://openai.com/index/asu",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Fine-tuning GPT-4o webinar",
+    "link": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI partners with Condé Nast",
+    "link": "https://openai.com/index/conde-nast",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Putting AI to work at Upwork",
+    "link": "https://openai.com/index/upwork",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Fine-tuning now available for GPT-4o",
+    "link": "https://openai.com/index/gpt-4o-fine-tuning",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Delivering contextual job matching for millions with OpenAI",
+    "link": "https://openai.com/index/indeed",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Zico Kolter Joins OpenAI’s Board of Directors",
+    "link": "https://openai.com/index/zico-kolter-joins-openais-board-of-directors",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4o System Card External Testers Acknowledgements",
+    "link": "https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4o System Card",
+    "link": "https://openai.com/index/gpt-4o-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Pairing data with APIs to unlock customer value",
+    "link": "https://openai.com/index/rakuten-2024",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "A Primer on the EU AI Act: What It Means for AI Providers and Deployers",
+    "link": "https://openai.com/global-affairs/a-primer-on-the-eu-ai-act",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "SearchGPT is a prototype of new AI search features",
+    "link": "https://openai.com/index/searchgpt-prototype",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4o mini: advancing cost-efficient intelligence",
+    "link": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New compliance and administrative tools for ChatGPT Enterprise",
+    "link": "https://openai.com/index/new-tools-for-chatgpt-enterprise",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
+    "link": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Finding GPT-4’s mistakes with GPT-4",
+    "link": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI acquires Rockset",
+    "link": "https://openai.com/index/openai-acquires-rockset",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Improved Techniques for Training Consistency Models",
+    "link": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Surging developer productivity with custom GPTs",
+    "link": "https://openai.com/index/paf",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Achieving 10x growth with agentic sales prospecting",
+    "link": "https://openai.com/index/clay",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using GPT-4o reasoning to transform cancer care",
+    "link": "https://openai.com/index/color-health",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors",
+    "link": "https://openai.com/index/openai-appoints-retired-us-army-general",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Apple announce partnership",
+    "link": "https://openai.com/index/openai-and-apple-announce-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "link": "https://openai.com/index/openai-welcomes-cfo-cpo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Extracting Concepts from GPT-4",
+    "link": "https://openai.com/index/extracting-concepts-from-gpt-4",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting deceptive uses of AI by covert influence operations",
+    "link": "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI for Education",
+    "link": "https://openai.com/index/introducing-chatgpt-edu",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI for Nonprofits",
+    "link": "https://openai.com/index/introducing-openai-for-nonprofits",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Automating customer support agents",
+    "link": "https://openai.com/index/mavenagi",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The Newsroom AI Catalyst: a global program with WAN-IFRA",
+    "link": "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Enhancing news in ChatGPT with The Atlantic",
+    "link": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Board Forms Safety and Security Committee",
+    "link": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI safety practices",
+    "link": "https://openai.com/index/openai-safety-update",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How the voices for ChatGPT were chosen",
+    "link": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Improvements to data analysis in ChatGPT",
+    "link": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Reddit Partnership",
+    "link": "https://openai.com/index/openai-and-reddit-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Creating an AI-powered Magic Studio",
+    "link": "https://openai.com/index/canva",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
+    "link": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Hello GPT-4o",
+    "link": "https://openai.com/index/hello-gpt-4o",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+    "link": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Our approach to data and AI",
+    "link": "https://openai.com/index/approach-to-data-and-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "We’re bringing the Financial Times’ world-class journalism to ChatGPT",
+    "link": "https://openai.com/index/content-partnership-with-financial-times",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT and Whisper APIs",
+    "link": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+    "link": "https://openai.com/index/gpt-4-api-general-availability",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
+    "link": "https://openai.com/index/child-safety-adopting-sbd-principles",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+    "link": "https://openai.com/index/the-instruction-hierarchy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI Japan",
+    "link": "https://openai.com/index/introducing-openai-japan",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Generative AI improves a wireless vision system that sees through obstructions",
+    "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
+    "link": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "How AI startups and founders use \"taste\" as the latest buzzword for describing and distinguishing their products, in an attempt to evoke an aura of artisanality (Kyle Chayka/New Yorker)",
+    "link": "http://www.techmeme.com/260319/p60#a260319p60",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "A US DOJ operation disrupted four botnets that infected 3M+ devices and includes the Aisuru and Kimwolf botnets used in a 31.4 Tbps DDoS attack in December 2025 (Andy Greenberg/Wired)",
+    "link": "http://www.techmeme.com/260319/p59#a260319p59",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy (Murray Stassen/Music Business Worldwide)",
+    "link": "http://www.techmeme.com/260319/p57#a260319p57",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Sources: the White House plans to unveil a federal AI framework on Friday covering preemption of state laws, child safety, communities, creators, and censorship (Axios)",
+    "link": "http://www.techmeme.com/260319/p56#a260319p56",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop \"superapp\" to simplify the user experience and focus on engineering and business customers (Berber Jin/Wall Street Journal)",
+    "link": "http://www.techmeme.com/260319/p54#a260319p54",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Verily raised $300M led by Series X Capital, giving it ~2 years of runway per a source; Alphabet remains an investor but no longer has a controlling stake (Axios)",
+    "link": "http://www.techmeme.com/260319/p50#a260319p50",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Sources: Kalshi is raising ~$1B led by Coatue at a $22B valuation, up from the $11B valuation announced in December, and has a revenue run rate of ~$1.5B (Yuliya Chernova/Wall Street Journal)",
+    "link": "http://www.techmeme.com/260319/p49#a260319p49",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions (Wired)",
+    "link": "http://www.techmeme.com/260319/p47#a260319p47",
+    "source": "Techmeme-AI"
   }
 ]
