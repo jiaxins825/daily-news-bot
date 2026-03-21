@@ -9533,5 +9533,2620 @@
     "title": "Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions (Wired)",
     "link": "http://www.techmeme.com/260319/p47#a260319p47",
     "source": "Techmeme-AI"
+  },
+  {
+    "title": "Towards Differentiating Between Failures and Domain Shifts in Industrial Data Streams",
+    "link": "https://arxiv.org/abs/2603.18032",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Taming Epilepsy: Mean Field Control of Whole-Brain Dynamics",
+    "link": "https://arxiv.org/abs/2603.18035",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Adapting Methods for Domain-Specific Japanese Small LMs: Scale, Architecture, and Quantization",
+    "link": "https://arxiv.org/abs/2603.18037",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Lightweight Adaptation for LLM-based Technical Service Agent: Latent Logic Augmentation and Robust Noise Reduction",
+    "link": "https://arxiv.org/abs/2603.18074",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Variational Phasor Circuits for Phase-Native Brain-Computer Interface Classification",
+    "link": "https://arxiv.org/abs/2603.18078",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "SLEA-RL: Step-Level Experience Augmented Reinforcement Learning for Multi-Turn Agentic Training",
+    "link": "https://arxiv.org/abs/2603.18079",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Probabilistic Federated Learning on Uncertain and Heterogeneous Data with Model Personalization",
+    "link": "https://arxiv.org/abs/2603.18083",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics",
+    "link": "https://arxiv.org/abs/2603.18107",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training",
+    "link": "https://arxiv.org/abs/2603.18112",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Gradient-Informed Temporal Sampling Improves Rollout Accuracy in PDE Surrogate Training",
+    "link": "https://arxiv.org/abs/2603.18237",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models",
+    "link": "https://arxiv.org/abs/2603.18256",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Detection Is Cheap, Routing Is Learned: Why Refusal-Based Alignment Evaluation Fails",
+    "link": "https://arxiv.org/abs/2603.18280",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Path-Constrained Mixture-of-Experts",
+    "link": "https://arxiv.org/abs/2603.18297",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Family of Adaptive Activation Functions for Mitigating Failure Modes in Physics-Informed Neural Networks",
+    "link": "https://arxiv.org/abs/2603.18328",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "AIMER: Calibration-Free Task-Agnostic MoE Pruning",
+    "link": "https://arxiv.org/abs/2603.18492",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Data-efficient pre-training by scaling synthetic megadocs",
+    "link": "https://arxiv.org/abs/2603.18534",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Transformers Learn Robust In-Context Regression under Distributional Uncertainty",
+    "link": "https://arxiv.org/abs/2603.18564",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding",
+    "link": "https://arxiv.org/abs/2603.18567",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction",
+    "link": "https://arxiv.org/abs/2603.18657",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2603.18683",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation",
+    "link": "https://arxiv.org/abs/2603.18688",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation",
+    "link": "https://arxiv.org/abs/2603.18697",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Automatic Configuration of LLM Post-Training Pipelines",
+    "link": "https://arxiv.org/abs/2603.18773",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Model Ensemble-Based Post-Processing Framework for Fairness-Aware Prediction",
+    "link": "https://arxiv.org/abs/2603.18838",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Authority-Level Priors: An Under-Specified Constraint in Hierarchical Predictive Processing",
+    "link": "https://arxiv.org/abs/2603.18888",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring",
+    "link": "https://arxiv.org/abs/2603.18954",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Book your room in the Turing Hotel! A symmetric and distributed Turing Test with multiple AIs and humans",
+    "link": "https://arxiv.org/abs/2603.18981",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science",
+    "link": "https://arxiv.org/abs/2603.19005",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "On Optimizing Multimodal Jailbreaks for Spoken Language Models",
+    "link": "https://arxiv.org/abs/2603.19127",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection",
+    "link": "https://arxiv.org/abs/2603.19145",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits",
+    "link": "https://arxiv.org/abs/2603.19173",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Sharpness Aware Surrogate Training for Spiking Neural Networks",
+    "link": "https://arxiv.org/abs/2603.18039",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Novel Framework using Intuitionistic Fuzzy Logic with U-Net and U-Net++ Architecture: A case Study of MRI Bain Image Segmentation",
+    "link": "https://arxiv.org/abs/2603.18042",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters",
+    "link": "https://arxiv.org/abs/2603.18101",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+    "link": "https://arxiv.org/abs/2603.18104",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models",
+    "link": "https://arxiv.org/abs/2603.18118",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "ResNets of All Shapes and Sizes: Convergence of Training Dynamics in the Large-scale Limit",
+    "link": "https://arxiv.org/abs/2603.18168",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Can LLMs Reason Like Automated Theorem Provers for Rust Verification? VCoT-Bench: Evaluating via Verification Chain of Thought",
+    "link": "https://arxiv.org/abs/2603.18334",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model",
+    "link": "https://arxiv.org/abs/2603.18342",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Multi-Domain Causal Empirical Bayes Under Linear Mixing",
+    "link": "https://arxiv.org/abs/2603.18404",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "UT-ACA: Uncertainty-Triggered Adaptive Context Allocation for Long-Context Inference",
+    "link": "https://arxiv.org/abs/2603.18446",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "T-QPM: Enabling Temporal Out-Of-Distribution Detection and Domain Generalization for Vision-Language Models in Open-World",
+    "link": "https://arxiv.org/abs/2603.18481",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Holter-to-Sleep: AI-Enabled Repurposing of Single-Lead ECG for Sleep Phenotyping",
+    "link": "https://arxiv.org/abs/2603.18714",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Memento-Skills: Let Agents Design Agents",
+    "link": "https://arxiv.org/abs/2603.18743",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding",
+    "link": "https://arxiv.org/abs/2603.18855",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models",
+    "link": "https://arxiv.org/abs/2603.18859",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "From Accuracy to Readiness: Metrics and Benchmarks for Human-AI Decision-Making",
+    "link": "https://arxiv.org/abs/2603.18895",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Entropy trajectory shape predicts LLM reasoning reliability: A diagnostic study of uncertainty dynamics in chain-of-thought",
+    "link": "https://arxiv.org/abs/2603.18940",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Towards Verifiable AI with Lightweight Cryptographic Proofs of Inference",
+    "link": "https://arxiv.org/abs/2603.19025",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning",
+    "link": "https://arxiv.org/abs/2603.19101",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "How Uncertainty Estimation Scales with Sampling in Reasoning Models",
+    "link": "https://arxiv.org/abs/2603.19118",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Optimal Splitting of Language Models from Mixtures to Specialized Domains",
+    "link": "https://arxiv.org/abs/2603.19149",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation",
+    "link": "https://arxiv.org/abs/2603.19166",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+    "link": "https://arxiv.org/abs/2603.19220",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "ODE-Constrained Generative Modeling of Cardiac Dynamics for 12-Lead ECG Synthesis",
+    "link": "https://arxiv.org/abs/2409.17833",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Unlocking Full Efficiency of Token Filtering in Large Language Model Training",
+    "link": "https://arxiv.org/abs/2502.00340",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Size-adaptive Hypothesis Testing for Fairness",
+    "link": "https://arxiv.org/abs/2506.10586",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM",
+    "link": "https://arxiv.org/abs/2507.13323",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "When Validation Fails: Cross-Institutional Blood Pressure Prediction and the Limits of Electronic Health Record-Based Models",
+    "link": "https://arxiv.org/abs/2507.19530",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Online Convex Optimization with Heavy Tails: Old Algorithms, New Regrets, and Applications",
+    "link": "https://arxiv.org/abs/2508.07473",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Investigating Faithfulness in Large Audio Language Models",
+    "link": "https://arxiv.org/abs/2509.22363",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Evolved Sample Weights for Bias Mitigation: Effectiveness Depends on the Fairness Objective",
+    "link": "https://arxiv.org/abs/2511.20909",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "DeeperBrain: A Neuro-Grounded EEG Foundation Model Towards Universal BCI",
+    "link": "https://arxiv.org/abs/2601.06134",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2601.14758",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Mixed-Precision Training and Compilation for RRAM-based Computing-in-Memory Accelerators",
+    "link": "https://arxiv.org/abs/2601.21737",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Causality is Key for Interpretability Claims to Generalise",
+    "link": "https://arxiv.org/abs/2602.16698",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Optimizer-Induced Low-Dimensional Drift and Transverse Dynamics in Transformer Training",
+    "link": "https://arxiv.org/abs/2602.23696",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery",
+    "link": "https://arxiv.org/abs/2603.07300",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Adversarial Latent-State Training for Robust Policies in Partially Observable Domains",
+    "link": "https://arxiv.org/abs/2603.07313",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Systematic Scaling Analysis of Jailbreak Attacks in Large Language Models",
+    "link": "https://arxiv.org/abs/2603.11149",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Exploring AI in Fashion: A Review of Aesthetics, Personalization, Virtual Try-On, and Forecasting",
+    "link": "https://arxiv.org/abs/2101.08301",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Hallucination Detection in Virtually-Stained Histology: A Latent Space Baseline",
+    "link": "https://arxiv.org/abs/2411.15060",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Detecting and Mitigating DDoS Attacks with AI: A Survey",
+    "link": "https://arxiv.org/abs/2503.17867",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices",
+    "link": "https://arxiv.org/abs/2506.11319",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs",
+    "link": "https://arxiv.org/abs/2508.12987",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "AI-driven Dispensing of Coral Reseeding Devices for Broad-scale Restoration of the Great Barrier Reef",
+    "link": "https://arxiv.org/abs/2509.01019",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Redundancy-as-Masking: Formalizing the Artificial Age Score (AAS) to Model Memory Aging in Generative AI",
+    "link": "https://arxiv.org/abs/2510.01242",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT)",
+    "link": "https://arxiv.org/abs/2512.20305",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Clipped Gradient Methods for Nonsmooth Convex Optimization under Heavy-Tailed Noise: A Refined Analysis",
+    "link": "https://arxiv.org/abs/2512.23178",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Multi-Preconditioned LBFGS for Training Finite-Basis PINNs",
+    "link": "https://arxiv.org/abs/2601.08709",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "Age-Aware Edge-Blind Federated Learning via Over-the-Air Aggregation",
+    "link": "https://arxiv.org/abs/2602.02469",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "The Coordination Gap: Multi-Agent Alternation Metrics for Temporal Fairness in Repeated Games",
+    "link": "https://arxiv.org/abs/2603.05789",
+    "source": "Arxiv-ML"
+  },
+  {
+    "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control",
+    "link": "https://arxiv.org/abs/2603.18093",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events",
+    "link": "https://arxiv.org/abs/2603.18178",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+    "link": "https://arxiv.org/abs/2603.18429",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection",
+    "link": "https://arxiv.org/abs/2603.18541",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models",
+    "link": "https://arxiv.org/abs/2603.18545",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Benchmarking CNN-based Models against Transformer-based Models for Abdominal Multi-Organ Segmentation on the RATIC Dataset",
+    "link": "https://arxiv.org/abs/2603.18616",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?",
+    "link": "https://arxiv.org/abs/2603.18625",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering",
+    "link": "https://arxiv.org/abs/2603.18636",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Click-to-Ask: An AI Live Streaming Assistant with Offline Copywriting and Online Interactive QA",
+    "link": "https://arxiv.org/abs/2603.18649",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection",
+    "link": "https://arxiv.org/abs/2603.18757",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation",
+    "link": "https://arxiv.org/abs/2603.18764",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Rethinking Uncertainty Quantification and Entanglement in Image Segmentation",
+    "link": "https://arxiv.org/abs/2603.18792",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation",
+    "link": "https://arxiv.org/abs/2603.19053",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation",
+    "link": "https://arxiv.org/abs/2603.19059",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation",
+    "link": "https://arxiv.org/abs/2603.19158",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Cross-Modal Rationale Transfer for Explainable Humanitarian Classification on Social Media",
+    "link": "https://arxiv.org/abs/2603.18611",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Latent Causal Modeling for 3D Brain MRI Counterfactuals",
+    "link": "https://arxiv.org/abs/2409.05585",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Mobile-VideoGPT: Fast and Accurate Model for Mobile Video Understanding",
+    "link": "https://arxiv.org/abs/2503.21782",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation",
+    "link": "https://arxiv.org/abs/2510.11173",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail",
+    "link": "https://arxiv.org/abs/2510.20558",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images",
+    "link": "https://arxiv.org/abs/2512.14640",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment",
+    "link": "https://arxiv.org/abs/2601.04614",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Forest-Chat: Adapting Vision-Language Agents for Interactive Forest Change Analysis",
+    "link": "https://arxiv.org/abs/2601.14637",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Deep Expert Injection for Anchoring Retinal VLMs with Domain-Specific Knowledge",
+    "link": "https://arxiv.org/abs/2603.07131",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "AI Pose Analysis and Kinematic Profiling of Range-of-Motion Variations in Resistance Training",
+    "link": "https://arxiv.org/abs/2510.20012",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding",
+    "link": "https://tldr.takara.ai/p/2603.18567",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "TopoChunker: Topology-Aware Agentic Document Chunking Framework",
+    "link": "https://tldr.takara.ai/p/2603.18409",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning",
+    "link": "https://tldr.takara.ai/p/2603.18683",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "The Spillover Effects of Peer AI Rinsing on Corporate Green Innovation",
+    "link": "https://tldr.takara.ai/p/2603.18415",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Cross-Modal Rationale Transfer for Explainable Humanitarian Classification on Social Media",
+    "link": "https://tldr.takara.ai/p/2603.18611",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Transformers Learn Robust In-Context Regression under Distributional Uncertainty",
+    "link": "https://tldr.takara.ai/p/2603.18564",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Klarna's AI assistant does the work of 700 full-time agents",
+    "link": "https://openai.com/index/klarna",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Start using ChatGPT instantly",
+    "link": "https://openai.com/index/start-using-chatgpt-instantly",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s comment to the NTIA on open model weights",
+    "link": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Embedding AI into developer software",
+    "link": "https://openai.com/index/jetbrains",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Reimagining the email experience with AI",
+    "link": "https://openai.com/index/superhuman",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building a data-driven, efficient culture with AI",
+    "link": "https://openai.com/index/holiday-extras",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Saving lives with AI health coaching",
+    "link": "https://openai.com/index/healthify",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI announces new members to board of directors",
+    "link": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
+    "link": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Sparking a more productive company with ChatGPT Enterprise",
+    "link": "https://openai.com/index/match-group",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using AI to improve patient access to clinical trials",
+    "link": "https://openai.com/index/paradigm",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Elon Musk",
+    "link": "https://openai.com/index/openai-elon-musk",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting malicious uses of AI by state-affiliated threat actors",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Memory and new controls for ChatGPT",
+    "link": "https://openai.com/index/memory-and-new-controls-for-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Response to NIST Executive Order on AI",
+    "link": "https://openai.com/global-affairs/response-to-nist-executive-order-on-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building an early warning system for LLM-aided biological threat creation",
+    "link": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+    "link": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How OpenAI is approaching 2024 worldwide elections",
+    "link": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Team",
+    "link": "https://openai.com/index/introducing-chatgpt-team",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing the GPT Store",
+    "link": "https://openai.com/index/introducing-the-gpt-store",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and journalism",
+    "link": "https://openai.com/index/openai-and-journalism",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Practices for Governing Agentic AI Systems",
+    "link": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Partnership with Axel Springer to deepen beneficial use of AI in journalism",
+    "link": "https://openai.com/index/axel-springer-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Sam Altman returns as CEO, OpenAI has a new initial board",
+    "link": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI announces leadership transition",
+    "link": "https://openai.com/index/openai-announces-leadership-transition",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Data Partnerships",
+    "link": "https://openai.com/index/data-partnerships",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPTs",
+    "link": "https://openai.com/index/introducing-gpts",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s Approach to Frontier Risk",
+    "link": "https://openai.com/global-affairs/our-approach-to-frontier-risk",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E 3 is now available in ChatGPT Plus and Enterprise",
+    "link": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s technology explained",
+    "link": "https://openai.com/global-affairs/openai-technology-explained",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Building AI-powered apps for business",
+    "link": "https://openai.com/index/retool",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Simplifying contract reviews with AI",
+    "link": "https://openai.com/index/ironclad",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "ChatGPT can now see, hear, and speak",
+    "link": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4V(ision) system card",
+    "link": "https://openai.com/index/gpt-4v-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Red Teaming Network",
+    "link": "https://openai.com/index/red-teaming-network",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI Dublin",
+    "link": "https://openai.com/index/introducing-openai-dublin",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Join us for OpenAI’s first developer conference on November 6 in San Francisco",
+    "link": "https://openai.com/index/announcing-openai-devday",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Teaching with AI",
+    "link": "https://openai.com/index/teaching-with-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Enterprise",
+    "link": "https://openai.com/index/introducing-chatgpt-enterprise",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI partners with Scale to provide support for enterprises fine-tuning models",
+    "link": "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-3.5 Turbo fine-tuning and API updates",
+    "link": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI acquires Global Illumination",
+    "link": "https://openai.com/index/openai-acquires-global-illumination",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Using GPT-4 for content moderation",
+    "link": "https://openai.com/index/using-gpt-4-for-content-moderation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Moving AI governance forward",
+    "link": "https://openai.com/index/moving-ai-governance-forward",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Custom instructions for ChatGPT",
+    "link": "https://openai.com/index/custom-instructions-for-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Frontier AI regulation: Managing emerging risks to public safety",
+    "link": "https://openai.com/index/frontier-ai-regulation",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI London",
+    "link": "https://openai.com/index/introducing-openai-london",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Comment on NTIA AI Accountability Policy",
+    "link": "https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Cybersecurity Grant Program",
+    "link": "https://openai.com/index/openai-cybersecurity-grant-program",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Democratic inputs to AI",
+    "link": "https://openai.com/index/democratic-inputs-to-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing the ChatGPT app for iOS",
+    "link": "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Language models can explain neurons in language models",
+    "link": "https://openai.com/index/language-models-can-explain-neurons-in-language-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New ways to manage your data in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Announcing OpenAI’s Bug Bounty Program",
+    "link": "https://openai.com/index/bug-bounty-program",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Our approach to AI safety",
+    "link": "https://openai.com/index/our-approach-to-ai-safety",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "March 20 ChatGPT outage: Here’s what happened",
+    "link": "https://openai.com/index/march-20-chatgpt-outage",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "ChatGPT plugins",
+    "link": "https://openai.com/index/chatgpt-plugins",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+    "link": "https://openai.com/index/gpts-are-gpts",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-4",
+    "link": "https://openai.com/index/gpt-4-research",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How should AI systems behave, and who should decide?",
+    "link": "https://openai.com/index/how-should-ai-systems-behave",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Plus",
+    "link": "https://openai.com/index/chatgpt-plus",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New AI classifier for indicating AI-written text",
+    "link": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Microsoft extend partnership",
+    "link": "https://openai.com/index/openai-and-microsoft-extend-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk",
+    "link": "https://openai.com/index/forecasting-misuse",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Fine-tuning GPT-3 to scale video creation",
+    "link": "https://openai.com/index/waymark",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT",
+    "link": "https://openai.com/index/chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E API now available in public beta",
+    "link": "https://openai.com/index/dall-e-api-now-available-in-public-beta",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E now available without waitlist",
+    "link": "https://openai.com/index/dall-e-now-available-without-waitlist",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E: Introducing outpainting",
+    "link": "https://openai.com/index/dall-e-introducing-outpainting",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Efficient training of language models to fill in the middle",
+    "link": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E now available in beta",
+    "link": "https://openai.com/index/dall-e-now-available-in-beta",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "DALL·E 2 pre-training mitigations",
+    "link": "https://openai.com/index/dall-e-2-pre-training-mitigations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Learning to play Minecraft with Video PreTraining",
+    "link": "https://openai.com/index/vpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI-written critiques help humans notice flaws",
+    "link": "https://openai.com/index/critiques",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Techniques for training large neural networks",
+    "link": "https://openai.com/index/techniques-for-training-large-neural-networks",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Teaching models to express their uncertainty in words",
+    "link": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Powering next generation applications with OpenAI Codex",
+    "link": "https://openai.com/index/codex-apps",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI leadership team update",
+    "link": "https://openai.com/index/leadership-team-update",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New GPT-3 capabilities: Edit & insert",
+    "link": "https://openai.com/index/gpt-3-edit-insert",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Economic impacts research at OpenAI",
+    "link": "https://openai.com/index/economic-impacts",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Text and code embeddings by contrastive pre-training",
+    "link": "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+    "link": "https://openai.com/index/webgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Customizing GPT-3 for your application",
+    "link": "https://openai.com/index/customizing-gpt-3",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Residency",
+    "link": "https://openai.com/index/openai-residency",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s API now available with no waitlist",
+    "link": "https://openai.com/index/api-no-waitlist",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Helen Toner joins OpenAI’s board of directors",
+    "link": "https://openai.com/index/helen-toner-joins",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Codex",
+    "link": "https://openai.com/index/openai-codex",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Evaluating large language models trained on code",
+    "link": "https://openai.com/index/evaluating-large-language-models-trained-on-code",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Improving language model behavior by training on a curated dataset",
+    "link": "https://openai.com/index/improving-language-model-behavior",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2021: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2021-final-projects",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Will Hurd joins OpenAI’s board of directors",
+    "link": "https://openai.com/index/will-hurd-joins",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-3 powers the next generation of apps",
+    "link": "https://openai.com/index/gpt-3-apps",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Organizational update from OpenAI",
+    "link": "https://openai.com/index/organizational-update",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI licenses GPT-3 technology to Microsoft",
+    "link": "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2020: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2020-final-projects",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Image GPT",
+    "link": "https://openai.com/index/image-gpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI API",
+    "link": "https://openai.com/index/openai-api",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI and efficiency",
+    "link": "https://openai.com/index/ai-and-efficiency",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Improving verifiability in AI development",
+    "link": "https://openai.com/index/improving-verifiability",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Microscope",
+    "link": "https://openai.com/index/microscope",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI standardizes on PyTorch",
+    "link": "https://openai.com/index/openai-pytorch",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-2: 1.5B release",
+    "link": "https://openai.com/index/gpt-2-1-5b-release",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2020: Applications open",
+    "link": "https://openai.com/index/openai-scholars-2020",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Fine-tuning GPT-2 from human preferences",
+    "link": "https://openai.com/index/fine-tuning-gpt-2",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Emergent tool use from multi-agent interaction",
+    "link": "https://openai.com/index/emergent-tool-use",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Testing robustness against unforeseen adversaries",
+    "link": "https://openai.com/index/testing-robustness",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-2: 6-month follow-up",
+    "link": "https://openai.com/index/gpt-2-6-month-follow-up",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Microsoft invests in and partners with OpenAI to support us building beneficial AGI",
+    "link": "https://openai.com/index/microsoft-invests-in-and-partners-with-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Why responsible AI development needs cooperation on safety",
+    "link": "https://openai.com/index/cooperation-on-safety",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Robotics Symposium 2019",
+    "link": "https://openai.com/index/symposium-2019",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2019: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2019-final-projects",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Fellows Fall 2018: Final projects",
+    "link": "https://openai.com/index/openai-fellows-fall-2018",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Five defeats Dota 2 world champions",
+    "link": "https://openai.com/index/openai-five-defeats-dota-2-world-champions",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Five Finals",
+    "link": "https://openai.com/index/openai-five-finals",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2019: Meet our Scholars",
+    "link": "https://openai.com/index/openai-scholars-2019-meet-our-scholars",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI LP",
+    "link": "https://openai.com/index/openai-lp",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Neural MMO: A massively multiagent game environment",
+    "link": "https://openai.com/index/neural-mmo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI safety needs social scientists",
+    "link": "https://openai.com/index/ai-safety-needs-social-scientists",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Fellows Summer 2018: Final projects",
+    "link": "https://openai.com/index/openai-summer-fellows-2018",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How AI training scales",
+    "link": "https://openai.com/index/how-ai-training-scales",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2019: Applications open",
+    "link": "https://openai.com/index/openai-scholars-2019",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Fellows Winter 2019 & Interns Summer 2019",
+    "link": "https://openai.com/index/openai-fellows-interns-2019",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2018: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2018-final-projects",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Five Benchmark: Results",
+    "link": "https://openai.com/index/openai-five-benchmark-results",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars 2018: Meet our Scholars",
+    "link": "https://openai.com/index/openai-scholars-2018-meet-our-scholars",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Five Benchmark",
+    "link": "https://openai.com/index/openai-five-benchmark",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Five",
+    "link": "https://openai.com/index/openai-five",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Learning policy representations in multiagent systems",
+    "link": "https://openai.com/index/learning-policy-representations-in-multiagent-systems",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Fellows Fall 2018",
+    "link": "https://openai.com/index/openai-fellows",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI and compute",
+    "link": "https://openai.com/index/ai-and-compute",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI safety via debate",
+    "link": "https://openai.com/index/debate",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Report from the OpenAI hackathon",
+    "link": "https://openai.com/index/hackathon-follow-up",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Scholars",
+    "link": "https://openai.com/index/openai-scholars",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI hackathon",
+    "link": "https://openai.com/index/openai-hackathon",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI supporters",
+    "link": "https://openai.com/index/openai-supporters",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Preparing for malicious uses of AI",
+    "link": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Domain randomization and generative models for robotic grasping",
+    "link": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Baselines: ACKTR & A2C",
+    "link": "https://openai.com/index/openai-baselines-acktr-a2c",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Baselines: DQN",
+    "link": "https://openai.com/index/openai-baselines-dqn",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Emergence of grounded compositional language in multi-agent populations",
+    "link": "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Microsoft",
+    "link": "https://openai.com/index/openai-and-microsoft",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Semi-supervised knowledge transfer for deep learning from private training data",
+    "link": "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Concrete AI safety problems",
+    "link": "https://openai.com/index/concrete-ai-safety-problems",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI technical goals",
+    "link": "https://openai.com/index/openai-technical-goals",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Adversarial training methods for semi-supervised text classification",
+    "link": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Gym Beta",
+    "link": "https://openai.com/index/openai-gym-beta",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
+    "link": "https://openai.com/index/weight-normalization",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI",
+    "link": "https://openai.com/index/introducing-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+    "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Deepening our partnership with the UK AI Security Institute",
+    "link": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+    "link": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "link": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
+    "link": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+    "link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Teaching AI to see the world more like we do",
+    "link": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "How AI is giving Northern Ireland teachers time back",
+    "link": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Mapping, modeling, and understanding nature with AI",
+    "link": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Accelerating discovery with the AI for Math Initiative",
+    "link": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "MedGemma: Our most capable open models for health AI development",
+    "link": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+    "link": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "How AI is helping advance the science of bioacoustics to save endangered species",
+    "link": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Using AI to perceive the universe in greater depth",
+    "link": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+    "link": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Introducing CodeMender: an AI agent for code security",
+    "link": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Bringing AI to the next generation of fusion energy",
+    "link": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Rethinking how we measure AI intelligence",
+    "link": "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
+    "link": "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "AlphaGenome: AI for better understanding the genome",
+    "link": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
+    "link": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "How we're supporting better tropical cyclone prediction with AI",
+    "link": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "SynthID Detector — a new portal to help identify AI-generated content",
+    "link": "https://deepmind.google/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Our vision for building a universal AI assistant",
+    "link": "https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI",
+    "link": "https://deepmind.google/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+    "link": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Music AI Sandbox, now with new features and broader access",
+    "link": "https://deepmind.google/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
+    "link": "https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Evaluating potential cybersecurity threats of advanced AI",
+    "link": "https://deepmind.google/blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemini 2.5: Our most intelligent AI model",
+    "link": "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemini Robotics brings AI into the physical world",
+    "link": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Gemini 2.0 is now available to everyone",
+    "link": "https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+    "link": "https://deepmind.google/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "The AI for Science Forum: A new era of discovery",
+    "link": "https://deepmind.google/blog/the-ai-for-science-forum-a-new-era-of-discovery/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "New generative AI tools open the doors of music creation",
+    "link": "https://deepmind.google/blog/new-generative-ai-tools-open-the-doors-of-music-creation/",
+    "source": "DeepMind-Blog"
+  },
+  {
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "link": "https://huggingface.co/blog/ulysses-sp",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "link": "https://huggingface.co/blog/unsloth-jobs",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Custom Kernels for All from Codex and Claude",
+    "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "link": "https://huggingface.co/blog/openenv-turing",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Transformers.js v4 Preview: Now Available on NPM!",
+    "link": "https://huggingface.co/blog/transformersjs-v4",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "link": "https://huggingface.co/blog/daggr",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "link": "https://huggingface.co/blog/upskill",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "One Year Since the “DeepSeek Moment”",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Codex is Open Sourcing AI models",
+    "link": "https://huggingface.co/blog/hf-skills-training-codex",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+    "link": "https://huggingface.co/blog/intel-deepmath",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "We Got Claude to Fine-Tune an Open Source LLM",
+    "link": "https://huggingface.co/blog/hf-skills-training",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+    "link": "https://huggingface.co/blog/transformers-v5",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+    "link": "https://huggingface.co/blog/rapidfireai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "link": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "link": "https://huggingface.co/blog/openenv",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+    "link": "https://huggingface.co/blog/virustotal",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Unlock the power of images with AI Sheets",
+    "link": "https://huggingface.co/blog/aisheets-unlock-images",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI for Food Allergies",
+    "link": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+    "link": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "link": "https://huggingface.co/blog/intel-qwen3-agent",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+    "link": "https://huggingface.co/blog/smol2operator",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Gaia2 and ARE: Empowering the community to study agents",
+    "link": "https://huggingface.co/blog/gaia2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Democratizing AI Safety with RiskRubric.ai",
+    "link": "https://huggingface.co/blog/riskrubric",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Public AI on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-publicai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+    "link": "https://huggingface.co/blog/faster-transformers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+    "link": "https://huggingface.co/blog/togethercomputer/together-ft",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Jupyter Agents: training LLMs to reason with notebooks",
+    "link": "https://huggingface.co/blog/jupyter-agent-2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+    "link": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Generate Images with Claude and Hugging Face",
+    "link": "https://huggingface.co/blog/claude-and-mcp",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "MCP for Research: How to Connect AI to Research Tools",
+    "link": "https://huggingface.co/blog/mcp-for-research",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+    "link": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+    "link": "https://huggingface.co/blog/aisheets",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "link": "https://huggingface.co/blog/accelerate-nd-parallel",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+    "link": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "link": "https://huggingface.co/blog/gradio-vton-mcp",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+    "link": "https://huggingface.co/blog/futurebench",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "link": "https://huggingface.co/blog/ettin",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+    "link": "https://huggingface.co/blog/screenenv",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
+    "link": "https://huggingface.co/blog/reachy-mini",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Announcing  NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
+    "link": "https://huggingface.co/blog/tiiuae/e2lm-competition",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
+    "link": "https://huggingface.co/blog/train-sparse-encoder",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Gemma 3n fully available in the open-source ecosystem!",
+    "link": "https://huggingface.co/blog/gemma3n",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-featherless",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "link": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
+    "link": "https://huggingface.co/blog/nvidia-training-cluster",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
+    "link": "https://huggingface.co/blog/screensuite",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
+    "link": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
+    "link": "https://huggingface.co/blog/Hcompany/holo1",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+    "link": "https://huggingface.co/blog/smolvla",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+    "link": "https://huggingface.co/blog/structured-codeagent",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Dell Enterprise Hub is all you need to build AI on premises",
+    "link": "https://huggingface.co/blog/dell-ai-applications",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+    "link": "https://huggingface.co/blog/python-tiny-agents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+    "link": "https://huggingface.co/blog/nanovlm",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
+    "link": "https://huggingface.co/blog/tiny-agents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+    "link": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+    "link": "https://huggingface.co/blog/pai-6-month",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+    "link": "https://huggingface.co/blog/scaling-secrets-management",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training and Finetuning Reranker Models with Sentence Transformers v4",
+    "link": "https://huggingface.co/blog/train-reranker",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
+    "link": "https://huggingface.co/blog/ai-action-wh-2025",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+    "link": "https://huggingface.co/blog/nvidia-physical-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+    "link": "https://huggingface.co/blog/jfrog",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Trace & Evaluate your Agent with Arize Phoenix",
+    "link": "https://huggingface.co/blog/smolagents-phoenix",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Welcome Fireworks.ai on the Hub 🎆",
+    "link": "https://huggingface.co/blog/fireworks-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Open-source DeepResearch – Freeing our search agents",
+    "link": "https://huggingface.co/blog/open-deep-research",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
+    "link": "https://huggingface.co/blog/dabstep",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial",
+    "link": "https://huggingface.co/blog/open-r1/mini-r1-contdown-game",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "The AI tools for Art Newsletter - Issue 1",
+    "link": "https://huggingface.co/blog/ai-art-newsletter-jan-25",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How to deploy and fine-tune DeepSeek models on AWS",
+    "link": "https://huggingface.co/blog/deepseek-r1-aws",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "link": "https://huggingface.co/blog/open-r1",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "We now support VLMs in smolagents!",
+    "link": "https://huggingface.co/blog/smolagents-can-see",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub",
+    "link": "https://huggingface.co/blog/friendliai-partnership",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/static-embeddings",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Agents Are Here. What Now?",
+    "link": "https://huggingface.co/blog/ethics-soc-7",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing smolagents: simple agents that write actions in code.",
+    "link": "https://huggingface.co/blog/smolagents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Open Source Developers Guide to the EU AI Act",
+    "link": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing HUGS - Scale your AI with Open Models",
+    "link": "https://huggingface.co/blog/hugs",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
+    "link": "https://huggingface.co/blog/protectai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+    "link": "https://huggingface.co/blog/dask-scaling",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "A Short Summary of Chinese AI Global Expansion",
+    "link": "https://huggingface.co/blog/chinese-ai-expansion",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Exploring the Daily Papers Page on Hugging Face",
+    "link": "https://huggingface.co/blog/daily-papers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
+    "link": "https://huggingface.co/blog/deploy-with-openvino",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2",
+    "link": "https://huggingface.co/blog/packing-with-FA2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI",
+    "link": "https://huggingface.co/blog/llama31-on-vertex-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
+    "link": "https://huggingface.co/blog/infini-attention",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How NuminaMath Won the 1st AIMO Progress Prize",
+    "link": "https://huggingface.co/blog/winning-aimo-progress-prize",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Google Cloud TPUs made available to Hugging Face users",
+    "link": "https://huggingface.co/blog/tpu-inference-endpoints-spaces",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Our Transformers Code Agent beats the GAIA benchmark 🏅",
+    "link": "https://huggingface.co/blog/beating-gaia",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face",
+    "link": "https://huggingface.co/blog/xlscout-case-study",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality",
+    "link": "https://huggingface.co/blog/ethics-soc-6",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate",
+    "link": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing the Hugging Face Embedding Container for Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-huggingface-embedding",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training and Finetuning Embedding Models with Sentence Transformers v3",
+    "link": "https://huggingface.co/blog/train-sentence-transformers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages",
+    "link": "https://huggingface.co/blog/falcon2-11b",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Build AI on premise with Dell Enterprise Hub",
+    "link": "https://huggingface.co/blog/dell-enterprise-hub",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face x LangChain : A new partner package",
+    "link": "https://huggingface.co/blog/langchain",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "License to Call: Introducing Transformers Agents 2.0",
+    "link": "https://huggingface.co/blog/agents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing the Open Chain of Thought Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-cot",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+    "link": "https://huggingface.co/blog/jat",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Apps in a Flash with Gradio's Reload Mode",
+    "link": "https://huggingface.co/blog/gradio-reload",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Vision Language Models Explained",
+    "link": "https://huggingface.co/blog/vlms",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Making thousands of open LLMs bloom in the Vertex AI Model Garden",
+    "link": "https://huggingface.co/blog/google-cloud-model-garden",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face partners with Wiz Research to Improve AI Security",
+    "link": "https://huggingface.co/blog/hugging-face-wiz-security-blog",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing the Chatbot Guardrails Arena",
+    "link": "https://huggingface.co/blog/arena-lighthouz",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models",
+    "link": "https://huggingface.co/blog/cosmopedia",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "GaLore: Advancing Large Model Training on Consumer-grade Hardware",
+    "link": "https://huggingface.co/blog/galore",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Easily Train Models with H100 GPUs on NVIDIA DGX Cloud",
+    "link": "https://huggingface.co/blog/train-dgx-cloud",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+    "link": "https://huggingface.co/blog/textgen-pipe-gaudi",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Watermarking 101: Tools and Techniques",
+    "link": "https://huggingface.co/blog/watermarking",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AMD Pervasive AI Developer Contest!",
+    "link": "https://huggingface.co/blog/amd_pervasive_developer_ai_contest",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "From OpenAI to Open LLMs with Messages API on Hugging Face",
+    "link": "https://huggingface.co/blog/tgi-messages-api",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Constitutional AI with Open LLMs",
+    "link": "https://huggingface.co/blog/constitutional_ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face Text Generation Inference available for AWS Inferentia2",
+    "link": "https://huggingface.co/blog/text-generation-inference-on-inferentia2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "An Introduction to AI Secure LLM Safety Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-decodingtrust",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and Google partner for open AI collaboration",
+    "link": "https://huggingface.co/blog/gcp-partnership",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Open-source LLMs as LangChain Agents",
+    "link": "https://huggingface.co/blog/open-source-llms-as-agents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "LoRA training scripts of the world, unite!",
+    "link": "https://huggingface.co/blog/sdxl_lora_advanced_script",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Mixture of Experts Explained",
+    "link": "https://huggingface.co/blog/moe",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Personal Copilot: Train Your Own Coding Assistant",
+    "link": "https://huggingface.co/blog/personal-copilot",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "The N Implementation Details of RLHF with PPO",
+    "link": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Deploying the AI Comic Factory using the Inference API",
+    "link": "https://huggingface.co/blog/ai-comic-factory",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Non-engineers guide: Train a LLaMA 2 chatbot",
+    "link": "https://huggingface.co/blog/Llama2-for-non-engineers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Making LLMs lighter with AutoGPTQ and transformers",
+    "link": "https://huggingface.co/blog/gptq-integration",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
+    "link": "https://huggingface.co/blog/eu-ai-act-oss",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
+    "link": "https://huggingface.co/blog/agents-js",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Results of the Open Source AI Game Jam",
+    "link": "https://huggingface.co/blog/game-jam-first-edition-results",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Building an AI WebTV",
+    "link": "https://huggingface.co/blog/ai-webtv",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Leveraging Hugging Face for complex generative AI use cases",
+    "link": "https://huggingface.co/blog/writer-case-study",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+    "link": "https://huggingface.co/blog/policy-ntia-rfc",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI Speech Recognition in Unity",
+    "link": "https://huggingface.co/blog/unity-asr",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Announcing the Open Source AI Game Jam 🎮",
+    "link": "https://huggingface.co/blog/game-jam",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-huggingface-llm",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
+    "link": "https://huggingface.co/blog/huggingface-and-ibm",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+    "link": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
+    "link": "https://huggingface.co/blog/chatbot-amd-gpu",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training a language model with 🤗 Transformers using TensorFlow and TPUs",
+    "link": "https://huggingface.co/blog/tf_tpu",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models",
+    "link": "https://huggingface.co/blog/databricks-case-study",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
+    "link": "https://huggingface.co/blog/chinese-language-blog",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Creating Privacy Preserving AI with Substra",
+    "link": "https://huggingface.co/blog/owkin-substra",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Snorkel AI x Hugging Face: unlock foundation models for enterprises",
+    "link": "https://huggingface.co/blog/snorkel-case-study",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
+    "link": "https://huggingface.co/blog/stackllama",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train your ControlNet with diffusers",
+    "link": "https://huggingface.co/blog/train-your-controlnet",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "New ViT and ALIGN Models From Kakao Brain",
+    "link": "https://huggingface.co/blog/vit-align",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Using Machine Learning to Aid Survivors and Race through Time",
+    "link": "https://huggingface.co/blog/using-ml-for-disasters",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS",
+    "link": "https://huggingface.co/blog/fetch-eap-case-study",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Hugging Face and AWS partner to make AI more accessible",
+    "link": "https://huggingface.co/blog/aws-partnership",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Generating Stories: AI for Game Development #5",
+    "link": "https://huggingface.co/blog/ml-for-games-5",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
+    "link": "https://huggingface.co/blog/aivsai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "2D Asset Generation: AI for Game Development #4",
+    "link": "https://huggingface.co/blog/ml-for-games-4",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "What Makes a Dialog Agent Useful?",
+    "link": "https://huggingface.co/blog/dialog-agents",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models",
+    "link": "https://huggingface.co/blog/optimum-onnxruntime-training",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "3D Asset Generation: AI for Game Development #3",
+    "link": "https://huggingface.co/blog/ml-for-games-3",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
+    "link": "https://huggingface.co/blog/ml-for-games-2",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 1",
+    "link": "https://huggingface.co/blog/ml-for-games-1",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB",
+    "link": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+    "link": "https://huggingface.co/blog/elixir-bumblebee",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Accelerating Document AI",
+    "link": "https://huggingface.co/blog/document-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training Stable Diffusion with Dreambooth using Diffusers",
+    "link": "https://huggingface.co/blog/dreambooth",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease",
+    "link": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Image Classification with AutoTrain",
+    "link": "https://huggingface.co/blog/autotrain-image-classification",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train your first Decision Transformer",
+    "link": "https://huggingface.co/blog/train-decision-transformers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How to train a Language Model with Megatron-LM",
+    "link": "https://huggingface.co/blog/megatron-training",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "OpenRAIL: Towards open and responsible AI licensing frameworks",
+    "link": "https://huggingface.co/blog/open_rail",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Pre-Train BERT with Hugging Face Transformers and Habana Gaudi",
+    "link": "https://huggingface.co/blog/pretraining-bert",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Deploying 🤗 ViT on Vertex AI",
+    "link": "https://huggingface.co/blog/deploy-vertex-ai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train and Fine-Tune Sentence Transformers Models",
+    "link": "https://huggingface.co/blog/how-to-train-sentence-transformers",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Comments on U.S. National AI Research Resource Interim Report",
+    "link": "https://huggingface.co/blog/us-national-ai-research-resource",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How to train your model dynamically using adversarial data",
+    "link": "https://huggingface.co/blog/mnist-adversarial",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "The Technology Behind BLOOM Training",
+    "link": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Accelerate Large Model Training using DeepSpeed",
+    "link": "https://huggingface.co/blog/accelerate-deepspeed",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Efficient Table Pre-training without Real Data: An Introduction to TAPEX",
+    "link": "https://huggingface.co/blog/tapex",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "We Raised $100 Million for Open & Collaborative Machine Learning 🚀",
+    "link": "https://huggingface.co/blog/series-c",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Welcome fastai to the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/fastai",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel",
+    "link": "https://huggingface.co/blog/pytorch-fsdp",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Opinion Classification with Kili and HuggingFace AutoTrain",
+    "link": "https://huggingface.co/blog/opinion-classification-with-kili",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training",
+    "link": "https://huggingface.co/blog/habana",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Announcing the 🤗 AI Research Residency Program",
+    "link": "https://huggingface.co/blog/ai-residency",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Guiding Text Generation with Constrained Beam Search in 🤗 Transformers",
+    "link": "https://huggingface.co/blog/constrained-beam-search",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "BERT 101 - State Of The Art NLP Model Explained",
+    "link": "https://huggingface.co/blog/bert-101",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker",
+    "link": "https://huggingface.co/blog/gptj-sagemaker",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Training CodeParrot 🦜 from Scratch",
+    "link": "https://huggingface.co/blog/codeparrot",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
+    "link": "https://huggingface.co/blog/snowball-fight",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Train a Sentence Embedding Model with 1B Training Pairs",
+    "link": "https://huggingface.co/blog/1b-sentence-embeddings",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+    "link": "https://huggingface.co/blog/collaborative-training",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API",
+    "link": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+    "link": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+    "link": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Porting fairseq wmt19 translation system to transformers",
+    "link": "https://huggingface.co/blog/porting-fsmt",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+    "link": "https://huggingface.co/blog/how-to-train",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+    "link": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It",
+    "link": "https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "Adapting the Facebook Reels RecSys AI Model Based on User Feedback",
+    "link": "https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "How AI Is Transforming the Adoption of Secure-by-Default Mobile Frameworks",
+    "link": "https://engineering.fb.com/2025/12/15/android/how-ai-transforming-secure-by-default-mobile-frameworks-adoption/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "Zoomer: Powering AI Performance at Meta’s Scale Through Intelligent Debugging and Optimization",
+    "link": "https://engineering.fb.com/2025/11/21/data-infrastructure/zoomer-powering-ai-performance-meta-intelligent-debugging-optimization/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "How AI is helping improve heart health in rural Australia",
+    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
+    "link": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
+    "link": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows",
+    "link": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "A US judge dismisses a lawsuit by Sam Altman's sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile (Jonathan Stempel/Reuters)",
+    "link": "http://www.techmeme.com/260320/p31#a260320p31",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Interviews with over three dozen people detail how lobbyist Mike Davis used his ties to Trump to push the DOJ to approve deals, including HPE's Juniper deal (Wall Street Journal)",
+    "link": "http://www.techmeme.com/260320/p30#a260320p30",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Filing: Anthropic says it cannot manipulate Claude once the military has deployed it, denying DOD accusations that Anthropic could tamper with models during war (Paresh Dave/Wired)",
+    "link": "http://www.techmeme.com/260320/p29#a260320p29",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Leaked DOD letter: Pentagon will adopt Palantir's Maven AI system as an official program of record to streamline its adoption across all arms of the US military (David Jeans/Reuters)",
+    "link": "http://www.techmeme.com/260320/p28#a260320p28",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Moonshot says Kimi K2.5 provides \"the foundation\" for Cursor's Composer 2 model and that Cursor accesses Kimi K2.5 via Fireworks AI (@kimi_moonshot)",
+    "link": "http://www.techmeme.com/260320/p23#a260320p23",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China (Jordan Novet/CNBC)",
+    "link": "http://www.techmeme.com/260320/p22#a260320p22",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord (Marcus Schuler/Implicator.ai)",
+    "link": "http://www.techmeme.com/260320/p21#a260320p21",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Jensen Huang proposes a compensation model where engineers receive an AI token budget on top of their base salary, to deploy agents as productivity multipliers (Anniek Bao/CNBC)",
+    "link": "http://www.techmeme.com/260320/p20#a260320p20",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Microsoft acknowledges complaints about Windows 11, promising a reduction of \"unnecessary\" Copilot integrations, more control over updates, and more (Ed Bott/ZDNET)",
+    "link": "http://www.techmeme.com/260320/p18#a260320p18",
+    "source": "Techmeme-AI"
   }
 ]
