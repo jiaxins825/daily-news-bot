@@ -12148,5 +12148,715 @@
     "title": "Microsoft acknowledges complaints about Windows 11, promising a reduction of \"unnecessary\" Copilot integrations, more control over updates, and more (Ed Bott/ZDNET)",
     "link": "http://www.techmeme.com/260320/p18#a260320p18",
     "source": "Techmeme-AI"
+  },
+  {
+    "title": "GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models",
+    "link": "https://arxiv.org/abs/2601.07632",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning",
+    "link": "https://arxiv.org/abs/2603.14052",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "Synergizing Deep Learning and Biological Heuristics for Extreme Long-Tail White Blood Cell Classification",
+    "link": "https://arxiv.org/abs/2603.16249",
+    "source": "Arxiv-CV"
+  },
+  {
+    "title": "HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning",
+    "link": "https://tldr.takara.ai/p/2603.17024",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Beyond Local Code Optimization: Multi-Agent Reasoning for Software System Optimization",
+    "link": "https://tldr.takara.ai/p/2603.14703",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models",
+    "link": "https://tldr.takara.ai/p/2603.15970",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "AI-Generated Figures in Academic Publishing: Policies, Tools, and Practical Guidelines",
+    "link": "https://tldr.takara.ai/p/2603.16159",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Mask Is What DLLM Needs: A Masked Data Training Paradigm for Diffusion LLMs",
+    "link": "https://tldr.takara.ai/p/2603.15803",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences",
+    "link": "https://tldr.takara.ai/p/2603.14531",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+    "link": "https://tldr.takara.ai/p/2603.18677",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Explainable machine learning workflows for radio astronomical data processing",
+    "link": "https://tldr.takara.ai/p/2603.16350",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Multilingual TinyStories: A Synthetic Combinatorial Corpus of Indic Children's Stories for Training Small Language Models",
+    "link": "https://tldr.takara.ai/p/2603.14563",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Compute Allocation for Reasoning-Intensive Retrieval Agents",
+    "link": "https://tldr.takara.ai/p/2603.14635",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Mind-of-Director: Multi-modal Agent-Driven Film Previsualization via Collaborative Decision-Making",
+    "link": "https://tldr.takara.ai/p/2603.14790",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "A Hybrid AI and Rule-Based Decision Support System for Disease Diagnosis and Management Using Labs",
+    "link": "https://tldr.takara.ai/p/2603.14876",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "D-MEM: Dopamine-Gated Agentic Memory via Reward Prediction Error Routing",
+    "link": "https://tldr.takara.ai/p/2603.14597",
+    "source": "HF-Daily-Papers"
+  },
+  {
+    "title": "Introducing GPT-5.4 mini and nano",
+    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI to acquire Promptfoo",
+    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "link": "https://openai.com/index/balyasny-asset-management",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5.4 Thinking System Card",
+    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5.4",
+    "link": "https://openai.com/index/introducing-gpt-5-4",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Ensuring AI use in education leads to opportunity",
+    "link": "https://openai.com/index/ai-education-opportunity",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "link": "https://openai.com/index/chatgpt-for-excel",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The five AI value models driving business reinvention",
+    "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Understanding AI and learning outcomes",
+    "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "link": "https://openai.com/index/axios-allison-murphy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "link": "https://openai.com/index/gpt-5-3-instant",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5.3 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "link": "https://openai.com/index/continuing-microsoft-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Scaling AI for everyone",
+    "link": "https://openai.com/index/scaling-ai-for-everyone",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "link": "https://openai.com/index/amazon-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "link": "https://openai.com/index/figma-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "link": "https://openai.com/index/frontier-alliance-partners",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI for India",
+    "link": "https://openai.com/index/openai-for-india",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "link": "https://openai.com/index/our-approach-to-localization",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI Frontier",
+    "link": "https://openai.com/index/introducing-openai-frontier",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "GPT-5.3-Codex System Card",
+    "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5.3-Codex",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Navigating health questions with ChatGPT",
+    "link": "https://openai.com/index/navigating-health-questions",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "link": "https://openai.com/index/vfl-wolfsburg",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "link": "https://openai.com/index/snowflake-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Inside OpenAI’s in-house data agent",
+    "link": "https://openai.com/index/inside-our-in-house-data-agent",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "link": "https://openai.com/index/taisei",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The next chapter for AI in the EU",
+    "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "link": "https://openai.com/index/ai-agent-link-safety",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "link": "https://openai.com/index/pvh-future-of-fashion",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "link": "https://openai.com/index/trustbank",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Indeed uses AI to help evolve the job search",
+    "link": "https://openai.com/index/indeed-maggie-hulce",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Unrolling the Codex agent loop",
+    "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+    "link": "https://openai.com/index/scaling-postgresql",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+    "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Horizon 1000: Advancing AI for primary healthcare",
+    "link": "https://openai.com/index/horizon-1000",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+    "link": "https://openai.com/index/cisco",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+    "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI for self empowerment",
+    "link": "https://openai.com/index/ai-for-self-empowerment",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Go, now available worldwide",
+    "link": "https://openai.com/index/introducing-chatgpt-go",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+    "link": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI partners with Cerebras",
+    "link": "https://openai.com/index/cerebras-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "link": "https://openai.com/index/zenken",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI’s Raising Concerns Policy",
+    "link": "https://openai.com/index/openai-raising-concerns-policy",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "link": "https://openai.com/index/stargate-sb-energy-partnership",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+    "link": "https://openai.com/index/netomi",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "OpenAI for Healthcare",
+    "link": "https://openai.com/index/openai-for-healthcare",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "link": "https://openai.com/index/tolan",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing ChatGPT Health",
+    "link": "https://openai.com/index/introducing-chatgpt-health",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Announcing OpenAI Grove Cohort 2",
+    "link": "https://openai.com/index/openai-grove",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "link": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "One in a million: celebrating the customers shaping AI’s future",
+    "link": "https://openai.com/index/one-in-a-million-customers",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Evaluating chain-of-thought monitorability",
+    "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "AI literacy resources for teens and parents",
+    "link": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5.2-Codex",
+    "link": "https://openai.com/index/gpt-5-2-codex",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+    "link": "https://openai.com/index/gpt-5-2-codex-system-card",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing GPT-5.2-Codex",
+    "link": "https://openai.com/index/introducing-gpt-5-2-codex",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Introducing OpenAI Academy for News Organizations",
+    "link": "https://openai.com/index/openai-academy-for-news-organizations",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The state of enterprise AI",
+    "link": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Developers can now submit apps to ChatGPT",
+    "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Evaluating AI’s ability to perform scientific research tasks",
+    "link": "https://openai.com/index/frontierscience",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Measuring AI’s capability to accelerate biological research",
+    "link": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "The new ChatGPT Images is here",
+    "link": "https://openai.com/index/new-chatgpt-images-is-here",
+    "source": "OpenAI-News"
+  },
+  {
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "source": "HuggingFace-Blog"
+  },
+  {
+    "title": "Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation",
+    "link": "https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/",
+    "source": "Meta-AI-Blog"
+  },
+  {
+    "title": "Our latest investment in open source security for the AI era",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "Ask a Techspert: How does AI understand my visual searches?",
+    "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "The latest AI news we announced in February",
+    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+    "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "“No technology has me dreaming bigger than AI”",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "AI Impact Summit 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+    "source": "Google-AI-Blog"
+  },
+  {
+    "title": "The case for stakeholder-driven AI auditing in automatic speech recognition",
+    "link": "https://www.nature.com/articles/s42256-026-01207-x",
+    "source": "Nature-Machine-Intelligence"
+  },
+  {
+    "title": "A robot operating system framework for using large language models in embodied AI",
+    "link": "https://www.nature.com/articles/s42256-026-01186-z",
+    "source": "Nature-Machine-Intelligence"
+  },
+  {
+    "title": "A benchmarking framework for embodied neuromorphic agents",
+    "link": "https://www.nature.com/articles/s42256-026-01197-w",
+    "source": "Nature-Machine-Intelligence"
+  },
+  {
+    "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+    "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+    "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
+    "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Neurons receive precisely tailored teaching signals as we learn",
+    "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Improving AI models’ ability to explain their predictions",
+    "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster",
+    "link": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "New method could increase LLM training efficiency",
+    "link": "https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "AI to help researchers see the bigger picture in cell biology",
+    "link": "https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Study: AI chatbots provide less-accurate information to vulnerable users",
+    "link": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Accelerating science with AI and simulations",
+    "link": "https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Helping AI agents search to get the best results out of large language models",
+    "link": "https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "How generative AI can help scientists synthesize complex materials",
+    "link": "https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Biology-based brain model matches animals in learning, enables new discovery",
+    "link": "https://news.mit.edu/2026/biology-based-brain-model-matches-animal-learning-enables-new-discovery-0122",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Generative AI tool helps 3D print personal items that sustain daily use",
+    "link": "https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "3 Questions: How AI could optimize the power grid",
+    "link": "https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "MIT scientists investigate memorization risk in the age of clinical AI",
+    "link": "https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Guided learning lets “untrainable” neural networks realize their potential",
+    "link": "https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "“Robot, make me a chair”",
+    "link": "https://news.mit.edu/2025/robot-makes-chair-1216",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases",
+    "link": "https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "New AI agent learns to use CAD to create 3D objects from sketches",
+    "link": "https://news.mit.edu/2025/new-ai-agent-learns-use-cad-create-3d-objects-sketches-1119",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "Charting the future of AI, from safer answers to faster thinking",
+    "link": "https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106",
+    "source": "MIT-AI-News"
+  },
+  {
+    "title": "A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research",
+    "link": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places (Shubham Agarwal/The Guardian)",
+    "link": "http://www.techmeme.com/260321/p12#a260321p12",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "A look at \"tokenmaxxing\", a status game where employees at a number of companies compete on leaderboards to show how much AI they're using (Kevin Roose/New York Times)",
+    "link": "http://www.techmeme.com/260321/p11#a260321p11",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Social media accounts showing AI-generated women as pro-Trump soldiers, truckers, and cops have gone viral, with thousands appearing to believe they are real (Drew Harwell/Washington Post)",
+    "link": "http://www.techmeme.com/260321/p10#a260321p10",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Sources: advertisers that bought ChatGPT's first ad campaigns say the process was low tech and that they haven't received much data showing if their ads worked (Catherine Perloff/The Information)",
+    "link": "http://www.techmeme.com/260321/p9#a260321p9",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom (Richard Nieva/Forbes)",
+    "link": "http://www.techmeme.com/260321/p7#a260321p7",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Inside Palantir's recent developer conference, where it doubled down on a vision of AI built for battlefield advantage as its commercial business soars (Steven Levy/Wired)",
+    "link": "http://www.techmeme.com/260321/p5#a260321p5",
+    "source": "Techmeme-AI"
+  },
+  {
+    "title": "Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to stop Anthropic's momentum with business customers (Financial Times)",
+    "link": "http://www.techmeme.com/260321/p6#a260321p6",
+    "source": "Techmeme-AI"
   }
 ]
