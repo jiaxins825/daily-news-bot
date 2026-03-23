@@ -67,26 +67,47 @@ def fetch_and_pool():
     print(f"本次新增: {new_count} 条，池子总计: {len(pool)} 条")
     return pool
 
-# 🌟 修复关键：补全被省略的函数定义
+# 🌟 安全抽样逻辑
 def summarize_weekly(pool):
-    """召唤 DeepSeek 进行周度汇总"""
+    """召唤 DeepSeek 进行大规模情报汇总（上限 1000 条）"""
     if not pool: return None
+    
+    import random
+    # 如果池子大于 1000，抽 1000 个；否则全选
+    sample_size = min(len(pool), 1000)
+    selected_items = random.sample(pool, sample_size)
+    
     bj_time = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime('%Y/%m/%d')
-    # 🌟 自动切片：只取前 50 条最相关的，防止素材太多撑爆 Token
-    selected_items = pool[-50:] 
+    # 构造素材文本
     text_content = "\n".join([f"- {i['title']} (来源: {i['source']})" for i in selected_items])
     
-    prompt = f"你现在是《AI水文信息站》总编。请根据以下素材撰写本周周报：\n{text_content}"
+    prompt = f"""
+    你现在是《AI水文信息站》总编。今天是 {bj_time}。
     
-    print("正在召唤 DeepSeek 生成周报...")
-    response = client.chat.completions.create(
-        model="deepseek-chat", 
-        messages=[{"role": "user", "content": prompt}], 
-        max_tokens=2000, 
-        temperature=0.8
-    )
-    return response.choices[0].message.content
-
+    【任务】：请从以下提供的 {sample_size} 条真实素材中，提炼出本周全球 AI 与科技界最值得关注的动态。
+    【要求】：
+    1. 严禁虚构。
+    2. 归纳总结，不要流水账。
+    3. 重点关注具有技术突破或行业趋势的内容。
+    
+    素材列表：
+    {text_content}
+    """
+    
+    print(f"📡 正在向 DeepSeek 发送 {sample_size} 条真实情报...")
+    
+    try:
+        response = client.chat.completions.create(
+            model="deepseek-chat", 
+            messages=[{"role": "user", "content": prompt}], 
+            max_tokens=2500, # 🌟 稍微调高输出上限，给它发挥空间
+            temperature=0.3
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        print(f"❌ DeepSeek 调用失败，可能是 Token 太多或网络波动: {e}")
+        return None
+        
 def upload_to_notion(content, title):
     """将周报上传至 Notion，包含动态配图"""
     token = os.getenv("NOTION_TOKEN")
